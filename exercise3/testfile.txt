@@ -1,0 +1,7 @@
+This is 
+my test 
+file
+it should
+have
+six
+newlines
